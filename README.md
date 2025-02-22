@@ -1,7 +1,7 @@
 # 🥁 E-commerce Especializado en Productos y Servicios para Bateristas  
 
 ## 📌 Sobre el Proyecto  
-Este e-commerce nace con la idea de ofrecer productos y servicios exclusivos para bateristas, utilizando la marca de [Nombre de la Marca de tu Amigo].  
+Este e-commerce nace con la idea de ofrecer productos y servicios exclusivos para bateristas, utilizando la marca AG Beaters.  
 
 Aquí, los usuarios podrán:  
 ✅ **Comprar mazos artesanales para batería**, diseñados a mano con materiales de alta calidad.  
