@@ -1,33 +1,45 @@
-# DPFS_Franco_Celadilla
+# 🥁 E-commerce Especializado en Productos y Servicios para Bateristas  
 
-## Descripción del Proyecto
-Este proyecto es un **e-commerce de servicios**, enfocado en ofrecer cursos y mentorías en diversas áreas. El objetivo es conectar a expertos con personas interesadas en aprender nuevas habilidades o mejorar sus conocimientos en distintas disciplinas.
+## 📌 Sobre el Proyecto  
+Este e-commerce nace con la idea de ofrecer productos y servicios exclusivos para bateristas, utilizando la marca de [Nombre de la Marca de tu Amigo].  
 
-Los usuarios podrán registrarse en la plataforma para acceder a un catálogo de cursos y mentorías, elegir el profesional que mejor se adapte a sus necesidades y reservar sesiones personalizadas.
+Aquí, los usuarios podrán:  
+✅ **Comprar mazos artesanales para batería**, diseñados a mano con materiales de alta calidad.  
+✅ **Contratar servicios de Drum Doctoring**, incluyendo afinación, mantenimiento y personalización de baterías.  
+✅ **Alquilar baterías** para estudios de grabación, conciertos o sesiones específicas.  
+✅ **Solicitar asesoramiento personalizado** según sus necesidades musicales.  
 
-## Audiencia Objetivo
-Nuestro marketplace está dirigido a:
-- Profesionales que desean mejorar sus habilidades en su área de trabajo.
-- Estudiantes en busca de aprendizaje adicional.
-- Emprendedores que necesitan asesoría en negocios, tecnología, marketing, etc.
-- Cualquier persona interesada en adquirir conocimientos a través de cursos o mentorías con expertos.
+El objetivo es crear una plataforma accesible, profesional y pensada para bateristas de todos los niveles.  
 
-## Características Clave del Sitio
-- Registro de mentores y alumnos.
-- Perfiles detallados de los mentores con experiencia y calificaciones.
-- Listado de cursos y sesiones de mentoría.
-- Sistema de reservas y pagos online.
-- Opcional: Chat o foro de consultas con los mentores.
+---
 
-## Inspiración y Referencias
-A continuación, se listan algunos sitios que sirven de referencia para la creación de este marketplace:
-1. **Udemy** - Gran variedad de cursos online con un sistema de valoraciones y categorías bien definido.
-2. **Domestika** - Plataforma enfocada en cursos creativos con una excelente experiencia visual.
-3. **Clarity.fm** - Especializado en mentorías por videollamada con expertos en distintos rubros.
-4. **Hotmart** - Ofrece cursos pagos con un ecosistema robusto de pagos y afiliaciones.
-5. **Superprof** - Plataforma de tutorías personalizadas con un enfoque en educación y mentorías 1 a 1.
+## 🎯 ¿A quién está dirigido?  
+🥁 **Bateristas profesionales y aficionados** → Que buscan mejorar su sonido con productos y servicios de calidad.  
+🎼 **Productores musicales y estudios de grabación** → Que necesitan baterías en alquiler o servicios de ajuste de sonido.  
+🎤 **Músicos en gira y organizadores de eventos** → Que requieren equipos y asistencia técnica para sus shows.  
 
-## Sobre el Autor
-Soy Franco Celadilla, un desarrollador Full Stack apasionado por la tecnología y la creación de soluciones digitales. Este proyecto es parte de mi formación en desarrollo web y metodologías ágiles.
+---
+
+## 🔍 Inspiración y Referentes  
+Para construir una experiencia sólida, tomamos inspiración en:  
+- **Vic Firth** → Marca líder en baquetas y accesorios para bateristas.  
+- **Meinl Stick & Brush** → Especialistas en baquetas y mazos de alta gama.  
+- **Drumeo** → Plataforma educativa con una comunidad fuerte de bateristas.  
+- **Sweetwater** → Tienda de instrumentos con excelente experiencia de usuario.  
+- **Zildjian** → Marca referente en platillos y accesorios de batería.  
+
+Cada uno de estos sitios tiene aspectos clave que servirán de referencia para mejorar la experiencia del usuario en nuestra plataforma.  
+
+---
+
+## 👤 Sobre mí  
+👋 ¡Hola! Soy Franco y este es mi proyecto final del curso de desarrollo Full Stack.  
+Estoy desarrollando este e-commerce para aplicar lo aprendido en **Node.js y React**, creando una plataforma real y funcional para un nicho especializado.  
+
+---
+
+## 📂 Organización del Proyecto  
+📁 **Wireframes** → Bocetos del diseño inicial en la carpeta `/wireframes`.  
+🎨 **Diseño UI (Opcional)** → Elementos visuales (logo, colores, tipografías) en `/design`.  
 
 
