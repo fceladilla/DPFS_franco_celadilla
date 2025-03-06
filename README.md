@@ -82,3 +82,6 @@ Estoy desarrollando este e-commerce para aplicar lo aprendido en Node.js y React
 📁 Wireframes → Bocetos del diseño inicial en la carpeta /wireframes.
 
 🎨 Diseño UI (Opcional) → Elementos visuales (logo, colores, tipografías) en /design.
+
+📌 **Tablero de trabajo en Trello**  
+👉 [Ver en Trello](https://trello.com/invite/b/67c99b984fd0294d6481f53e/ATTI4ff5b259b2e15769b117dbe497613c509C188B33/ag-beaters-desarrollo-e-commerce)
