@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+        <%= title || 'AG Beaters' %>
+    </title>
+    <link rel="stylesheet" href="/stylesheets/style.css">
+</head>
+
+<body>
+
+    <!-- Navbar -->
+    <%- include("./partials/navbar") %>
+
+        <!-- Contenido dinámico de cada página -->
+        <main>
+            <%- body %>
+        </main>
+
+        <!-- Footer -->
+        <%- include("./partials/footer") %>
+
+            <script src="/javascripts/navbar.js"></script>
+</body>
+
+</html>

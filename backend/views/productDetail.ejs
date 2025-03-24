@@ -1,0 +1,16 @@
+<section class="products">
+    <h2>Nuestros Productos</h2>
+    <div class="grid-container">
+        <% productos.forEach(producto=> { %>
+            <div class="producto">
+                <img src="<%= producto.imagen %>" alt="<%= producto.nombre %>">
+                <h3>
+                    <%= producto.nombre %>
+                </h3>
+                <p>$<%= producto.precio %>
+                </p>
+                <a href="/product/<%= producto.id %>" class="btn">Ver más</a>
+            </div>
+            <% }) %>
+    </div>
+</section>

@@ -1,0 +1,29 @@
+<section class="cart">
+    <h2>Tu Carrito de Compras</h2>
+    <% if (cart.length> 0) { %>
+        <div class="cart-container">
+            <% cart.forEach(item=> { %>
+                <div class="cart-item">
+                    <img src="<%= item.imagen %>" alt="<%= item.nombre %>">
+                    <div class="cart-details">
+                        <h3>
+                            <%= item.nombre %>
+                        </h3>
+                        <p>Precio: $<%= item.precio %>
+                        </p>
+                        <p>Cantidad: <%= item.cantidad %>
+                        </p>
+                        <p>Total: $<%= item.precio * item.cantidad %>
+                        </p>
+                        <a href="/cart/remove/<%= item.id %>" class="btn remove-btn">Eliminar</a>
+                    </div>
+                </div>
+                <% }) %>
+        </div>
+        <h3>Total: $<%= cart.reduce((acc, item)=> acc + (item.precio * item.cantidad), 0) %></h3>
+        <a href="/checkout" class="btn">Finalizar Compra</a>
+        <% } else { %>
+            <p>Tu carrito está vacío.</p>
+            <a href="/product" class="btn">Seguir Comprando</a>
+            <% } %>
+</section>
